@@ -1,0 +1,11 @@
+.c-numeric-input--error {
+  outline: 1px solid red;
+}
+
+.c-numeric-input--valid {
+  outline: 1px solid green;
+}
+
+.c-numeric-input__error-msg {
+  color: red;
+}
